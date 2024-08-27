@@ -13,7 +13,7 @@ public class Parse {
 		  Double dou = 67.23;
 		  Boolean b = true;
 		  String str2 = i.toString();
-		  System.out.println(str);
+		  System.out.println(str2);
 		  str = dou.toString();
 		  System.out.println(str2);
 		  str = b.toString();
