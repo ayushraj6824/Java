@@ -7,6 +7,7 @@ public class Arrays {
         int size =sc.nextInt();
         int numbers[]=new int[size];
 
+        
         //input
         for (int i = 0; i < size; i++) {
             System.out.print("enter a number:");
