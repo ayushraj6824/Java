@@ -14,6 +14,7 @@ public class TwoDArrays {
                 numbers[i][j]=sc.nextInt();
             }
         }
+        
         //output
         for (int i = 0; i < row; i++) {
             //colums
